@@ -1,0 +1,4 @@
+include README.rst
+include CHANGELOG.rst
+include echarts_united_kingdom_pypkg/resources/echarts-united-kingdom-js/*.js
+include echarts_united_kingdom_pypkg/resources/registry.json
