@@ -11,12 +11,18 @@ echarts-united-kingdom-pypkg
 
 The project packages `echarts-united-kingdom-js <https://github.com/pyecharts/echarts-united-kingdom-js>`_ and distributes it via pypi.
 
-.. image:: https://echarts-maps.github.io/echarts-united-kingdom-js/electoral_results_2017_uk.gif
-   :target: https://echarts-maps.github.io/echarts-united-kingdom-js/electoral_results_2017_uk.html
-
 Installation
 ================================================================================
 
+
+You can install echarts-united-kingdom-pypkg via pip:
+
+.. code-block:: bash
+
+    $ pip install echarts-united-kingdom-pypkg
+
+
+or clone it and install it:
 
 .. code-block:: bash
 
